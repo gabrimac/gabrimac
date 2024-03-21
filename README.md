@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrimac
 - 👀 I’m interested in HTML over the wire
-- 🌱 I’m currently learning Stimulus Reflex & Hotwire
+- 🌱 I’m currently learning Hotwire
 - 💞️ I’m looking to collaborate on any project with these technologies
 - 📫 How to reach me gabrimac@hey.com
 
